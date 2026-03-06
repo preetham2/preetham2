@@ -92,6 +92,8 @@ Python, Machine Learning, Tableau
 
 Repository:  
 https://github.com/preetham2/employee-promotion-prediction
+Tableau Dashboard:
+https://public.tableau.com/app/profile/preetham.padala
 
 ---
 
