@@ -1,90 +1,102 @@
-Preetham Padala
+# Preetham Padala
 Data Analyst | Python | SQL | Power BI | Excel
 
-I am a Data Analyst with a Master's degree in Data Science focused on transforming raw data into meaningful business insights. 
-My work involves cleaning datasets, identifying performance patterns, building reports, and supporting data-driven decision making.
+I am a Data Analyst with a Master's degree in Data Science focused on transforming raw data into meaningful business insights. My work includes cleaning datasets, identifying performance patterns, building analytical reports, and supporting data-driven decision making.
 
-I have developed multiple analytical projects that simulate real industry workflows including reporting automation, business analysis, and data processing pipelines.
+I have developed multiple analytical projects that simulate real industry workflows including business analysis, data pipelines, reporting automation, and machine learning.
 
-------------------------------------------------------------
+---
 
-SKILLS
+## Skills
 
-Programming:
-Python (Pandas, NumPy, Matplotlib)
-SQL (Joins, Aggregations, Filtering, Case Logic)
+### Programming
+Python (Pandas, NumPy, Matplotlib)  
+SQL (Joins, Aggregations, Filtering, CASE logic)
 
-Analytics:
-Data Cleaning
-Exploratory Data Analysis
-KPI Reporting
-Trend Analysis
+### Data Analytics
+Data Cleaning  
+Exploratory Data Analysis  
+KPI Reporting  
+Trend Analysis  
 Data Validation
 
-Tools:
-Excel (Pivot Tables, Lookup Functions)
-Power BI (Dashboard Reporting)
-Git & GitHub
+### Tools
+Excel (Pivot Tables, Lookup Functions)  
+Power BI (Dashboard Reporting)  
+Git & GitHub  
 
-------------------------------------------------------------
+---
 
-PROJECT EXPERIENCE
+# Projects
 
-Sales Performance Analysis and Dashboard
-Analyzed a retail sales dataset to understand revenue behavior and profitability patterns.
+## Sales Performance Analysis Dashboard
 
-Responsibilities and Outcomes:
-- Cleaned and standardized transactional records to remove inconsistent values
-- Aggregated sales data by category, region, and time period
-- Identified high-performing regions responsible for majority of profit
-- Detected product groups contributing to overall losses
-- Generated monthly performance reports to support decision making
-- Built automated visualization script to replace manual analysis process
+Analyzed retail sales data to identify revenue patterns and profitability drivers.
 
-Business Impact:
-Provided clear understanding of revenue trends and profitability drivers and reduced manual reporting effort.
+**Tools:**  
+Python, Pandas, Matplotlib, Data Visualization
 
-Repository:
+**Key Work**
+- Cleaned transactional sales dataset
+- Aggregated performance by region and product category
+- Identified high-profit regions
+- Built visualization dashboards for trend analysis
+
+Repository:  
 https://github.com/preetham2/sales-dashboard-python
 
-------------------------------------------------------------
+---
 
-Automated ETL Data Preparation Pipeline
-Developed a reusable workflow to prepare raw datasets for analytics.
+## Automated ETL Data Preparation Pipeline
 
-Responsibilities and Outcomes:
-- Extracted raw structured data from source file
+Developed a reusable Python workflow to transform raw datasets into analysis-ready structured data.
+
+**Tools:**  
+Python, Data Cleaning, Data Validation
+
+**Key Work**
+- Extracted raw structured data from source files
 - Validated missing and inconsistent records
-- Transformed data into analysis-ready structure
-- Automated preparation process to ensure repeatability
-- Improved reliability of downstream reporting
+- Transformed data into analysis-ready format
+- Automated preprocessing pipeline
 
-Business Impact:
-Enabled faster and consistent data preparation for analytical tasks and minimized manual preprocessing.
-
-Repository:
+Repository:  
 https://github.com/preetham2/etl-data-pipeline-python
 
-------------------------------------------------------------
+---
 
-SQL Business Reporting Analysis
+## SQL Business Reporting Analysis
+
 Performed business performance analysis using SQL queries.
 
-Responsibilities and Outcomes:
-- Queried transactional data to measure revenue and profit
-- Compared performance across regions and categories
-- Generated summary metrics used for reporting
-- Created repeatable query reports for performance tracking
+**Tools:**  
+SQL, Data Aggregation, Business Reporting
 
-Business Impact:
-Helped interpret operational performance and supported decision-making using structured reports.
+**Key Work**
+- Queried transactional datasets to measure revenue and profit
+- Compared performance across regions and product categories
+- Generated summary metrics for reporting
+- Built reusable SQL queries for performance tracking
 
-Repository:
+Repository:  
 https://github.com/preetham2/sales-data-analysis-sql
 
-------------------------------------------------------------
+---
 
-CONTACT
-Email: preethampadala95@gmail.com
-Location: United States
+## Employee Promotion Prediction (Machine Learning)
+
+Built a machine learning model to predict employee promotions using HR analytics data.
+
+**Tools:**  
+Python, Machine Learning, Tableau
+
+Repository:  
+https://github.com/preetham2/employee-promotion-prediction
+
+---
+
+## Contact
+
+Email: preethampadala95@gmail.com  
+Location: United States  
 Actively seeking Data Analyst opportunities
