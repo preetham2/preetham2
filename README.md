@@ -1,5 +1,5 @@
 # Preetham Padala
-Data Analyst | Python | SQL | Power BI | Excel
+Data Analyst | Python | SQL | Tableau | Power BI | Excel
 
 I am a Data Analyst with a Master's degree in Data Science focused on transforming raw data into meaningful business insights. My work includes cleaning datasets, identifying performance patterns, building analytical reports, and supporting data-driven decision making.
 
@@ -22,7 +22,7 @@ Data Validation
 
 ### Tools
 Excel (Pivot Tables, Lookup Functions)  
-Power BI (Dashboard Reporting)  
+Tableau, Power BI (Dashboard Reporting)  
 Git & GitHub  
 
 ---
